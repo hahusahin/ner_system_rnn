@@ -1,0 +1,15 @@
+#
+#
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Ll]ogs/
+/.ipynb_checkpoints/
+#
+*.csv
+*.h5
+*.dat
+*.tmp
+*.pdf
+*.zip
