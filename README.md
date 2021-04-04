@@ -1,8 +1,8 @@
 # Named Entity Recognition (NER) System Using RNN
 
 ### Goal
-In this project I developed a NER system using Bi-LSTM Recurrent Neural Network architecture.
-
+In this project I developed a NER system using Bi-LSTM Recurrent Neural Network architecture. 
+ 
 ### Description
 * The dataset has total of 47959 sentences with total 1048575 words. There are 17 unique NER tags
 
