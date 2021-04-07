@@ -4,7 +4,7 @@
 In this project I developed a NER system using Bi-LSTM Recurrent Neural Network architecture. 
  
 ### Description
-* The dataset has total of 47959 sentences with total 1048575 words. There are 17 unique NER tags
+* The dataset has total of 47959 sentences with total 1048575 words. There are 17 unique NER tags.
 
 * The dataset is taken from Kaggle.  https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus
 
