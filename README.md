@@ -21,6 +21,9 @@ In this project I developed a NER system using Bi-LSTM Recurrent Neural Network 
     * Obtained overall accuracy score of 99.3% and F1 Score of 80.4%.
     * Created a new sentence with related NER tags and made predictions on the new instance
 
+### Project Files
+* ner.ipynb - Project Notebook
+* Dataset is not included because of size
 
 ### Libraries Used
 *	numpy, pandas : for data manipulation
